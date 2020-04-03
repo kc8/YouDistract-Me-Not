@@ -2,7 +2,7 @@
 
 This app allows you to query or search for YouTube videos with just a search bar. I made this because I always go to YouTube.com to search for videos and end up getting distracted watching unproductive videos fom my subscription. My goal was just to create a bar bones search bar.
 
-You can check out the live search function here: [Link to come]
+You can check out the live search function: [here](https://distractmenot.cooperkyle.com/)
 
 # Default React README (details on running the app)
 
