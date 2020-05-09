@@ -1,6 +1,7 @@
-# YouTube Distaction Free Search
+# YouTube Distraction Free Search
 
-This app allows you to query or search for YouTube videos with just a search bar. I made this because I always go to YouTube.com to search for videos and end up getting distracted watching unproductive videos fom my subscription. My goal was just to create a bar bones search bar.
+This site allows you to search for YouTube videos with just a search bar and no distractions. I made this as I always go to YouTube to search videos and end up getting distracted watching something completely unrelated.
+
 
 You can check out the live search function: [here](https://distractmenot.cooperkyle.com/)
 
